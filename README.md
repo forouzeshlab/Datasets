@@ -8,7 +8,7 @@ The PDBBind structures provided in this dataset are created by applying post pre
 The dataset is stored in `pdbbind_revisioned` directory in PDB format.
 Result of MMP(G)BSA calculation is available in `pdbbind.csv` file.
 Features included in the CSV file explained in the following table.
-<img src="../assets/dataset-pdbbind-features.png">
+<img src="assets/dataset-pdbbind-features.png">
 ## Mobley
 The Mobley dataset comprises a diverse set of small molecules and associated protein targets. The structures are provided in PDB format and have been processed using the AmberTools MMPBSA.py tool and also VerraChem to calculate binding energies, solvation energies, and other relevant properties [2].
 
