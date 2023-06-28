@@ -1,0 +1,10 @@
+BRD4--ligand-1,0.0
+BRD4--ligand-2,0.0
+BRD4--ligand-3,-5.95
+BRD4--ligand-4,-6.36
+BRD4--ligand-5,-7.40
+BRD4--ligand-6,-7.84
+BRD4--ligand-7,-8.16
+BRD4--ligand-8,-8.99
+BRD4--ligand-9,-9.64
+BRD4--ligand-10,-10.41
